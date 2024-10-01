@@ -1,0 +1,22 @@
+body {background-color: aquamarine;
+    border-color: black;
+    border-style: dashed;
+    border-width: 70px;}
+h1  {text-align: center;    
+    border-color: orangered;
+    border-width: 50px;
+    border-style: dotted;
+    color: red;
+    font-size: 50px;}
+.caiu {text-align: center;
+    font-size: 30px;
+    border-width: 40px;
+    border-style: outset;
+    border-color: purple;
+    color: blue;}
+h2  {text-align: right;
+    font-size: 30px;
+    color:chocolate;}
+.casa {font-size: 200px;
+    color:mediumvioletred}
+
